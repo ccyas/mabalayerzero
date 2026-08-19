@@ -1,0 +1,15 @@
+allowBuilds:
+  '@swc/core': true
+  '@trufflesuite/bigint-buffer': true
+  bigint-buffer: true
+  bufferutil: true
+  core-js-pure: true
+  es5-ext: true
+  keccak: true
+  protobufjs: true
+  secp256k1: true
+  unrs-resolver: true
+  utf-8-validate: true
+  web3: true
+  web3-bzz: true
+  web3-shh: true
